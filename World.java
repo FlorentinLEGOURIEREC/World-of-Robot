@@ -13,7 +13,7 @@ public class World
    // instance variables - replace the example below with your own
     public ArrayList<RobotG> robots;
     private int maxRobots; //The number max of robots
-    private rainbowRobot myRobot;
+  //  private rainbowRobot myRobot;
     
     /**
      * Constructor for objects of class World
